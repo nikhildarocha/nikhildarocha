@@ -1,6 +1,6 @@
 ### Hi there👋
  I'm currently a Software Engineer for  Barclays.
- My interests like in Distributed Systems, Machine Learning and Natural Language Processing
+ My interests lie in Distributed Systems, Machine Learning and Natural Language Processing
 
 - 📫 How to reach me: ...
      Email ID: niks77883@gmail.com
