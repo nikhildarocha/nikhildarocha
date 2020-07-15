@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there👋
+ I'm currently a Software Engineer for a Barclays
+ My interests like in Distributed Systems, Machine Learning and Natural Language Processing
+
+- 📫 How to reach me: ...
+     Email ID: niks77883@gmail.com
+     Linkedln: https://www.linkedin.com/in/nikhil-da-rocha-63709358/
 
 <!--
 **nikhildarocha/nikhildarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
