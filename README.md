@@ -1,5 +1,5 @@
 ### Hi there👋
- I'm currently a Software Engineer for a Barclays
+ I'm currently a Software Engineer for  Barclays.
  My interests like in Distributed Systems, Machine Learning and Natural Language Processing
 
 - 📫 How to reach me: ...
